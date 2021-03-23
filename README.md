@@ -6,6 +6,20 @@
 *I use the term "font" loosely however, because these "fonts" were not actually meant to be stylish typefaces for use in everyday text, just different typefaces used for mathematical and technical purposes.*
 You can learn more about them [here](https://www.unicode.org/reports/tr25/tr25-15.pdf#%5B%7B%22num%22%3A34%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C69%2C274%2C0%5D).
 
+## Installation
+Download the setup wizard, which is named "PTFancyfonter_Setup_V3.4.exe"
+
+After it finishes downloading, double click it to run it.
+
+Upon running the setup wizard, **you may be presented with a popup from Windows Defender, but do not be alarmed.**
+
+Just click "Show more" and then "Run anyway."
+
+PT Fancyfonter is not malware, nor does it contain any. If you are still unsure, you can do a virus scan (I recommend [VirusTotal.com](https://www.virustotal.com/gui/home/upload)).
+
+<a href="url"><img src="https://i.imgur.com/OsqeUDI.gif" height="500" width="535" ></a>
+
+After you have completed the installation, you can then start using it!
 
 ## Usage
 
